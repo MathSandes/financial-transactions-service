@@ -15,9 +15,10 @@ Pré-requisitos:
 - Docker Desktop (ou outro Docker)
 - Git
 
-Badge de CI (após push para GitHub):
+Badges
 
-![CI](https://github.com/YOUR_USERNAME/financial-transactions-api/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/MathSandes/financial-transactions-service/actions/workflows/ci.yml/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Setup rápido:
 
